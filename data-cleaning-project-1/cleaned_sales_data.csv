@@ -1,0 +1,9 @@
+Order ID,Date,Customer Name,State,Sales,Profit,Category,Discount
+ORD032,2024-01-02,John Doe,Ca,100.0,1000.0,office supplies,
+ORD013,2024-01-02,John Doe,California,200.0,1000.0,technology,
+ORD005,2024-01-02,John Doe,,450.0,50.0,office supplies,0.3
+ORD046,2024-01-02,,California,100.0,20.0,technology,0.3
+ORD026,2024-01-02,John Doe,,0.0,,furniture,0.1
+ORD040,2024-01-02,,Ca,450.0,20.0,office supplies,0.3
+ORD011,2024-01-02,Jane Smith,Ca,100.0,50.0,unknown,0.1
+

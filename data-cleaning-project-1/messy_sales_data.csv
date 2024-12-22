@@ -1,0 +1,56 @@
+Order ID,Date,Customer Name,State,Sales,Profit,Category,Discount
+ORD032,01-02-2024,John Doe,CA,100.0,1000.0,Office Supplies,
+ORD006,,,,200.0,20.0,,0.3
+,,John Doe,CA,5000.0,-30.0,FURNITURE,0.3
+ORD014,Invalid,,CA,200.0,50.0,tech,0.2
+,01-02-2024,,TX,450.0,20.0,FURNITURE,0.2
+ORD050,Invalid,jane SMITH,california,5000.0,50.0,FURNITURE,0.2
+,Invalid,jane SMITH,texas,5000.0,50.0,Office Supplies,0.1
+ORD027,,,texas,,,,
+ORD044,2024/01/01,,CA,5000.0,20.0,Technology,0.3
+ORD013,01-02-2024,John Doe,california,200.0,1000.0,Technology,
+,Invalid,,TX,,20.0,FURNITURE,0.2
+ORD004,,John Doe,CA,-10.0,-30.0,tech,0.1
+,01-02-2024,ALICE Johnson,texas,100.0,,Technology,0.3
+,01-02-2024,John Doe,TX,100.0,1000.0,Technology,0.2
+,,,california,200.0,50.0,,0.2
+ORD018,,jane SMITH,,-10.0,20.0,,
+ORD007,,,california,-10.0,50.0,FURNITURE,0.1
+ORD005,01-02-2024,John Doe,,450.0,50.0,Office Supplies,0.3
+ORD048,Invalid,ALICE Johnson,,200.0,-30.0,,0.1
+,01-02-2024,,california,-10.0,-30.0,Office Supplies,0.1
+,01-02-2024,ALICE Johnson,california,,,tech,0.1
+ORD046,01-02-2024,,california,100.0,20.0,Technology,0.3
+ORD004,,John Doe,CA,-10.0,-30.0,tech,0.1
+ORD016,,John Doe,TX,450.0,-30.0,Technology,0.2
+ORD010,2024/01/01,ALICE Johnson,CA,200.0,20.0,Technology,0.2
+,01-02-2024,,CA,-10.0,20.0,Technology,0.2
+,2024/01/01,John Doe,,200.0,20.0,tech,0.2
+,Invalid,jane SMITH,california,100.0,,Technology,0.2
+ORD038,Invalid,ALICE Johnson,texas,450.0,50.0,FURNITURE,0.2
+ORD026,01-02-2024,John Doe,,-10.0,,FURNITURE,0.1
+ORD012,01-02-2024,ALICE Johnson,CA,5000.0,-30.0,FURNITURE,0.3
+ORD001,Invalid,ALICE Johnson,california,-10.0,1000.0,tech,0.2
+ORD049,2024/01/01,John Doe,texas,200.0,,Technology,0.3
+,Invalid,jane SMITH,texas,450.0,50.0,tech,0.1
+ORD030,Invalid,John Doe,texas,-10.0,-30.0,Technology,0.2
+,01-02-2024,ALICE Johnson,CA,200.0,20.0,,0.3
+ORD002,,ALICE Johnson,CA,450.0,20.0,FURNITURE,
+ORD022,,John Doe,california,200.0,1000.0,,
+,Invalid,,TX,,20.0,FURNITURE,0.2
+ORD001,Invalid,ALICE Johnson,california,-10.0,1000.0,tech,0.2
+ORD040,01-02-2024,,CA,450.0,20.0,Office Supplies,0.3
+ORD036,,jane SMITH,texas,-10.0,,FURNITURE,0.2
+,,ALICE Johnson,california,-10.0,20.0,FURNITURE,0.3
+ORD045,2024/01/01,ALICE Johnson,california,200.0,-30.0,Technology,
+ORD011,01-02-2024,jane SMITH,CA,100.0,50.0,,0.1
+,Invalid,,,450.0,20.0,tech,0.2
+,2024/01/01,jane SMITH,california,-10.0,50.0,tech,0.1
+ORD005,01-02-2024,John Doe,,450.0,50.0,Office Supplies,0.3
+ORD021,2024/01/01,jane SMITH,texas,-10.0,50.0,FURNITURE,0.3
+ORD008,01-02-2024,John Doe,,5000.0,-30.0,,0.3
+ORD043,2024/01/01,jane SMITH,TX,100.0,50.0,,0.3
+ORD015,Invalid,jane SMITH,CA,450.0,20.0,FURNITURE,0.2
+ORD029,Invalid,jane SMITH,texas,,,FURNITURE,
+ORD002,,ALICE Johnson,CA,450.0,20.0,FURNITURE,
+,,jane SMITH,CA,,1000.0,tech,
